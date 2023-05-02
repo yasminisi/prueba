@@ -1,1 +1,6 @@
-# AED
+-  Algoritmos y estructura de datos
+- Curso  K1051
+- Año 2023
+- 1767197
+- Isi
+- Yasmin
